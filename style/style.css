@@ -105,13 +105,9 @@ header li :hover{
       }
       /* background end */
       /* contact */
-      .contact {
-        background-color: #1a1a1a;
-      }
-      
       .row-box {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         gap: 1rem;
       }
       
@@ -142,3 +138,14 @@ header li :hover{
       button:hover {
         background-color: #404040;
       }
+  /* contact end  */
+  /* footer start */
+  /* contact */
+  .contact{
+    border-bottom: 1px solid #47453d;
+    margin-bottom: 20px;
+  }
+  /* social media */
+  .icons ul li a{
+    margin-left: 30px;
+  }
