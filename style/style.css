@@ -104,7 +104,13 @@ header li :hover{
         background-attachment: fixed;
       }
       /* background end */
+      /* footer start */
+
       /* contact */
+      .contact{
+        border-bottom: 1px solid #47453d;
+        margin-bottom: 20px;
+      }
       .row-box {
         display: flex;
         flex-direction: row;
@@ -139,13 +145,10 @@ header li :hover{
         background-color: #404040;
       }
   /* contact end  */
-  /* footer start */
-  /* contact */
-  .contact{
-    border-bottom: 1px solid #47453d;
-    margin-bottom: 20px;
-  }
+
   /* social media */
   .icons ul li a{
     margin-left: 30px;
   }
+  /* social media end */
+  /* end code */
